@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "postgraphile": "4.0.0-rc.3.3",
+    "ts-node": "7.0.1",
+    "tsc": "1.20150623.0",
+    "typescript": "3.0.1"
+  },
+  "scripts": {
+    "build": "tsc",
+    "run": "ts-node src/server.ts"
+  }
+}
